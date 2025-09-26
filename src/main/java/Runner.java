@@ -21,5 +21,8 @@ public class Runner {
         //Version 6
         System.out.println();
 
+        //Version 7
+        System.out.println("Hİ");
+
     }
 }
